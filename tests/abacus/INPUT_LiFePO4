@@ -1,0 +1,24 @@
+INPUT_PARAMETERS
+suffix	abacus
+ntype	2
+pseudo_dir  ./
+orbital_dir ./
+calculation scf
+ecutwfc	100
+scf_thr	1e-07
+scf_nmax  200
+smearing_method	gaussian
+smearing_sigma	0.0037
+mixing_type	pulay
+mixing_beta	0.2
+mixing_gg0	1.5
+ks_solver	genelpa
+basis_type	lcao
+gamma_only	0
+symmetry	1
+nspin  2
+out_mul	1
+out_bandgap	1
+mixing_restart 5e-3
+mixing_dmr	1
+kspacing        0.10

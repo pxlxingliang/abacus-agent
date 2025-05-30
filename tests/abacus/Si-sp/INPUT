@@ -1,0 +1,13 @@
+INPUT_PARAMETERS
+suffix                Si
+ntype                 1
+pseudo_dir            ./
+orbital_dir           ./
+nspin                 1
+ecutwfc               100
+scf_thr               1e-5
+basis_type            lcao
+calculation           scf
+
+smearing_method       gaussian
+smearing_sigma        0.00001

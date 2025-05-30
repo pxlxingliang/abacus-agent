@@ -1,0 +1,9 @@
+{
+    "normal_end": true,
+    "natom": 1,
+    "ibzk": 35,
+    "nelec": 4.0,
+    "nbands": 12,
+    "scf_steps": 5,
+    "energy_per_atom": -105.9853100270492
+}
